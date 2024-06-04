@@ -9,6 +9,9 @@ Implementation of a real Lane Assist system on a project car . The car is using 
 - 4 AAA batteries to power up the engines and L298N DC Motor Driver
 - 4x D.C motors ~ 3V-6V 
 
+![image](https://github.com/AndreiStefan1/Self-driving-car---Autonomous-Car---Lane-Keeping-Assist---Artificial-Intelligence---Neural-Network/assets/111795066/4c7a0d99-5723-4039-84b9-9e935907a5f8)
+
+
 
 ## The concept 
 A neural network is a computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process information in layers. Each neuron receives inputs, applies weights, and passes the output through an activation function to the next layer. This layered structure enables neural networks to learn complex patterns and make predictions from data.
